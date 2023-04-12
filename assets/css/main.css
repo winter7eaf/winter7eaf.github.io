@@ -3848,10 +3848,12 @@ body.is-preload #banner > .inner {
 #menu ul.links {
     list-style: none;
     padding: 0;
+    display: inline-block;
 }
 
 #menu ul.links > li {
     padding: 0;
+
 }
 
 #menu ul.links > li > a:not(.button) {
